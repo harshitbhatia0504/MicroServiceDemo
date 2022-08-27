@@ -5,6 +5,7 @@ package parkingClass;
 
 public class ParkingLot{
 	
+	//variable names
 	private String parkingReserved;
     private String parkingUnreserved;
     private String parkingVehicleNo;
